@@ -1,6 +1,5 @@
-#name = input("Please enter your name: ")
-
-#print("Hello", name)
+name = input("Please enter your name: ")
+print("Hello", name)
 
 #year_of_birth = input("Please insert the year you were born: ")
 #year_of_birth = int(year_of_birth)
